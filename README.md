@@ -5,9 +5,10 @@ It is organized into different folders, each focusing on a specific topic, makin
 
 ---
 
-## **📂 Project Structure**
+## 📂 Project Structure
 
-PRACTICE-REACT-CODES/
+```bash
+PRACTICE-REACT-CODES-2/
 │
 ├── 📁 1-Basic-Practice
 │   ├── 📄 Basic-Practice-1
@@ -67,9 +68,6 @@ PRACTICE-REACT-CODES/
 └── 🛠️ 8-Redux
     └── 📄 using-Redux-Toolkit
 
-
-markdown
-Copy code
 
 ---
 
