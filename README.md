@@ -31,17 +31,70 @@ It is designed for:
 
 ---
 
-📂 Folder Structure
-react-practice/
-├── basics/           # JSX, Components, Props, State
-├── hooks/            # useState, useEffect, useContext, useReducer, custom hooks
-├── routing/          # React Router v6 examples
-├── redux-toolkit/    # Redux Toolkit & State Management
-├── forms/            # Controlled & Uncontrolled forms
-├── api-calls/        # Fetch & Axios examples
-├── projects/         # Mini React projects for practice
-└── README.md
+## 📂 Project Structure
 
+```bash
+PRACTICE-REACT-CODES-2/
+│
+├── 📁 1-Basic-Practice
+│   ├── 📄 Basic-Practice-1
+│   ├── 📄 Basic-Practice-2
+│   ├── 📄 Basic-Practice-3
+│   ├── 📄 import-components
+│   ├── 📄 start-react
+│   ├── 📄 using-bootstrap
+│   ├── 📄 using-react-fragment-1
+│   ├── 📄 using-react-fragment-2
+│   ├── 📄 using-react-icon-library
+│
+├── 🎨 2-Styling
+│   ├── 📄 css-module
+│   ├── 📄 Inline-css
+│   ├── 📄 using-bootstrap
+│   ├── 📄 using-tailwind-css
+│
+├── 🔀 3-Conditional-Rendering
+│   ├── 📄 if-else
+│   ├── 📄 logical-operator
+│   ├── 📄 map-method
+│   ├── 📄 Methods
+│   ├── 📄 ternary-operator
+│
+├── 🎁 4-Props
+│
+├── 🪝 5-Hooks
+│   ├── 📄 Practice-from-all-Hooks
+│   ├── 📄 useCallback
+│   ├── 📄 useContext
+│   ├── 📄 useCustom-Hook
+│   ├── 📄 useEffect
+│   ├── 📄 useMemo
+│   ├── 📄 useReducer
+│   ├── 📄 useRef
+│   ├── 📄 useState
+│
+├── 📝 6-React-Hook-Form
+│   ├── 📄 Basic-Practice-1
+│   ├── 📄 Basic-Practice-2
+│   ├── 📄 Basic-Practice-3
+│   ├── 📄 Basic-Practice-4
+│
+├── 🌐 7-Routing
+│   ├── 📄 apply-NestedRouting-using-children
+│   ├── 📄 apply-routing
+│   ├── 📄 Basic-Practice
+│   ├── 📄 handle-not-define-page-or-404-page
+│   ├── 📄 using-anchor-tag-for-navigation
+│   ├── 📄 using-Link-tag-for-navigation
+│   ├── 📄 using-NavLink-tag-for-navigation-with-styling
+│   ├── 📄 using-useNavigate-for-page-changing
+│   ├── 📄 using-useParams-for-dynamic-data
+│   ├── 📄 using-useParams-for-dynamic-data-2
+│
+└── 🛠️ 8-Redux
+    └── 📄 using-Redux-Toolkit
+
+    
 ---
 
 ## 🛠 Tech Stack
