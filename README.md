@@ -31,20 +31,16 @@ It is designed for:
 
 ---
 
-## 📂 Folder Structure
-
+📂 Folder Structure
 react-practice/
-├── basics/ # JSX, Components, Props, State
-├── hooks/ # useState, useEffect, useContext, useReducer, custom hooks
-├── routing/ # React Router v6 examples
-├── redux-toolkit/ # Redux Toolkit & State Management
-├── forms/ # Controlled & Uncontrolled forms
-├── api-calls/ # Fetch & Axios examples
-├── projects/ # Mini React projects for practice
+├── basics/           # JSX, Components, Props, State
+├── hooks/            # useState, useEffect, useContext, useReducer, custom hooks
+├── routing/          # React Router v6 examples
+├── redux-toolkit/    # Redux Toolkit & State Management
+├── forms/            # Controlled & Uncontrolled forms
+├── api-calls/        # Fetch & Axios examples
+├── projects/         # Mini React projects for practice
 └── README.md
-
-yaml
-Copy code
 
 ---
 
