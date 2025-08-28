@@ -7,65 +7,66 @@ It is organized into different folders, each focusing on a specific topic, makin
 
 ## **📂 Project Structure**
 
-PRACTICE-REACT-CODES-2
+PRACTICE-REACT-CODES/
 │
-├── 1-Basic-Practice
-│ ├── Basic-Practice-1
-│ ├── Basic-Practice-2
-│ ├── Basic-Practice-3
-│ ├── import-components
-│ ├── start-react
-│ ├── using-bootstrap
-│ ├── using-react-fragment-1
-│ ├── using-react-fragment-2
-│ ├── using-react-icon-library
+├── 📁 1-Basic-Practice
+│   ├── 📄 Basic-Practice-1
+│   ├── 📄 Basic-Practice-2
+│   ├── 📄 Basic-Practice-3
+│   ├── 📄 import-components
+│   ├── 📄 start-react
+│   ├── 📄 using-bootstrap
+│   ├── 📄 using-react-fragment-1
+│   ├── 📄 using-react-fragment-2
+│   ├── 📄 using-react-icon-library
 │
-├── 2-Styling
-│ ├── css-module
-│ ├── Inline-css
-│ ├── using-bootstrap
-│ ├── using-tailwind-css
+├── 🎨 2-Styling
+│   ├── 📄 css-module
+│   ├── 📄 Inline-css
+│   ├── 📄 using-bootstrap
+│   ├── 📄 using-tailwind-css
 │
-├── 3-conditional-rendering
-│ ├── if-else
-│ ├── logical-operator
-│ ├── map-method
-│ ├── Methods
-│ ├── ternary-operator
+├── 🔀 3-Conditional-Rendering
+│   ├── 📄 if-else
+│   ├── 📄 logical-operator
+│   ├── 📄 map-method
+│   ├── 📄 Methods
+│   ├── 📄 ternary-operator
 │
-├── 4-Props
+├── 🎁 4-Props
 │
-├── 5-Hooks
-│ ├── Practice-from-all-Hooks
-│ ├── useCallback
-│ ├── useContext
-│ ├── useCustom-Hook
-│ ├── useEffect
-│ ├── useMemo
-│ ├── useReducer
-│ ├── useRef
-│ ├── useState
+├── 🪝 5-Hooks
+│   ├── 📄 Practice-from-all-Hooks
+│   ├── 📄 useCallback
+│   ├── 📄 useContext
+│   ├── 📄 useCustom-Hook
+│   ├── 📄 useEffect
+│   ├── 📄 useMemo
+│   ├── 📄 useReducer
+│   ├── 📄 useRef
+│   ├── 📄 useState
 │
-├── 6-react-hook-form
-│ ├── Basic-Practice-1
-│ ├── Basic-Practice-2
-│ ├── Basic-Practice-3
-│ ├── Basic-Practice-4
+├── 📝 6-React-Hook-Form
+│   ├── 📄 Basic-Practice-1
+│   ├── 📄 Basic-Practice-2
+│   ├── 📄 Basic-Practice-3
+│   ├── 📄 Basic-Practice-4
 │
-├── 7-Routing
-│ ├── apply-NestedRouting-using-children
-│ ├── apply-routing
-│ ├── Basic-Practice
-│ ├── handle-not-define-page-or-404-page
-│ ├── using-anchor-tag-for-navigation
-│ ├── using-Link-tag-for-navigation
-│ ├── using-NavLink-tag-for-navigation-with-styling
-│ ├── using-useNavigate-for-page-changing
-│ ├── using-useParams-for-dynamic-data
-│ ├── using-useParams-for-dynamic-data-2
+├── 🌐 7-Routing
+│   ├── 📄 apply-NestedRouting-using-children
+│   ├── 📄 apply-routing
+│   ├── 📄 Basic-Practice
+│   ├── 📄 handle-not-define-page-or-404-page
+│   ├── 📄 using-anchor-tag-for-navigation
+│   ├── 📄 using-Link-tag-for-navigation
+│   ├── 📄 using-NavLink-tag-for-navigation-with-styling
+│   ├── 📄 using-useNavigate-for-page-changing
+│   ├── 📄 using-useParams-for-dynamic-data
+│   ├── 📄 using-useParams-for-dynamic-data-2
 │
-└── 8-Redux
-├── useing-Redux-Toolkit
+└── 🛠️ 8-Redux
+    └── 📄 using-Redux-Toolkit
+
 
 markdown
 Copy code
