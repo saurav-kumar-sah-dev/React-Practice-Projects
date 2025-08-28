@@ -1,0 +1,30 @@
+/* Main container to center content */
+.errorContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 80vh; /* Centers vertically */
+  text-align: center;
+}
+
+/* Styling for the error icon */
+.errorIcon {
+  color: #e63946;  /* Red color for alert */
+  font-size: 60px; /* Big icon */
+  margin-bottom: 10px;
+  animation: bounce 1s infinite; /* Adding bounce animation */
+}
+
+/* Styling for the error message */
+.paragraph {
+  color: #e63946;
+  font-size: 22px;
+  font-weight: bold;
+  background-color: #ffe5e5;
+  padding: 10px 20px;
+  border-radius: 8px;
+  box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.2);
+}
+
+

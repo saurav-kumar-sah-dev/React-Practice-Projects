@@ -1,0 +1,12 @@
+.box {
+  font-size: 15px;
+}
+
+.box1 {
+  background-color: blue;
+  color: aqua;
+  width: 90px;
+  text-align: center;
+  line-height: 25px;
+
+}
